@@ -1,0 +1,2 @@
+# Splafont-Generator
+SplatoonっぽいCJKフォントをフリーフォントの合成で作るやつ
